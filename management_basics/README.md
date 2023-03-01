@@ -1,10 +1,10 @@
 # management_basics
 
-A new Flutter project.
+A new Flutter project. It contains all the concept of provider and some of the code.
 
-## Getting Started
+## Provider State Management
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Provider State Management.
 
 A few resources to get you started if this is your first Flutter project:
 
